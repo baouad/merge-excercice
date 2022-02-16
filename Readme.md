@@ -1,3 +1,4 @@
+
 Texte 1 :
 
 Il faut aussi savoir que les frères Grimm ont essentiellement recensé les contes dans le Land de Hesse, où le costume traditionnel porté par les femmes
@@ -12,3 +13,7 @@ Le chaperon que porte Le Petit Chaperon rouge est, à l’époque de Charles Per
 La chose est naturelle : le costume des enfants des classes aisées du XVIIe siècle se caractérise par son archaïsme et ses emprunts aux modes populaires.
 Ce petit chaperon rouge serait donc la marque du désir des protagonistes villageois de se distinguer socialement, un signe de l’affection de la mère et de
 la grand-mère pour leur ravissante petite fille12.
+
+Certains chercheurs (notamment Pierre Saintyves) ont vu dans le chaperon rouge une couronne de fleurs,
+ce qui ferait de l'héroïne une reine de Mai, personnage du folklore populaire. Cette interprétation est combattue par les comparatistes qui font remarquer
+que les différentes versions du conte n'insistent pas toutes sur ce trait qui paraît avoir été mis en exergue (voire inventé) par Perrault et les frères Grimm. 
