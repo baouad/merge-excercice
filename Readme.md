@@ -1,1 +1,1 @@
-Dès que Git trouve un commit de base commun, il crée un « commit de merge » qui combine les changements des commits de merge spécifiés.
+Dès que Git trouve un commit de base commun, il crée un « commit de merge » qui combine les changements des commits de merge spécifiés..
